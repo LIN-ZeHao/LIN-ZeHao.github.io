@@ -10,7 +10,5 @@ I'm a second year undergraduate student from [School of Economics](https://www.e
 
 You can find my CV here: [LinZehao's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
-[Email](mailto:202210093@mail.sdu.edu.cn) / [Github](https://github.com/LIN-ZeHao) / [Wechat](../images/wechat.jpg)
-
-##Education##
+##Education
 Shandong University
