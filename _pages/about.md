@@ -10,6 +10,11 @@ I'm a second year undergraduate student from [School of Economics](https://www.e
 
 You can find my CV here: [LinZehao's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
-##Education
+## EDUCATION
 
-Shandong University
+2022-Present  
+**Shandong University(SDU)**, Jinan, Shangdong, China  
+Master student in Economics, expected June 2025  
+Avearge marks: 91.43 / 100
+
+
