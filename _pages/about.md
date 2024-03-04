@@ -11,4 +11,5 @@ I'm a second year undergraduate student from [School of Economics](https://www.e
 You can find my CV here: [LinZehao's Curriculum Vitae](../assets/curriculum_vitae.pdf).
 
 ##Education
+
 Shandong University
