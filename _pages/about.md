@@ -31,8 +31,20 @@ Using LSTM and CNN models and Japanese tweet data, I construct daily sentiment i
 **Procedural justice and acceptance of inequality** --------------Dec. 2023 – Present  
 I use word embedding techniques to measure the acceptance of inequality in different countries. Then I look at whether millionaires’ wealth is perceived to be just in those countries by looking at their backgrounds and industries. This paper mainly examines the causal relationship between procedural justice and acceptance of inequality.  
 
-**Income and expenditure of different classes in the Republic of China in the 1930s**------Jul. 2021 –Jun. 2022  
+**Income and expenditure of different classes in the Republic of China in the 1930s**  
+Jul. 2021 –Jun. 2022  
 I collect and present data on the income and expenditure of the upper classes, such as senior officials and wealthy businessmen, to the lower classes, such as stevedore and beggars, in the Republic of China in the 1930s, providing some evidence to understand the inequality of the time.  
 
 **Has the epidemic forced the upgrading of industrial structure?** --------Aug. 2020 – Apr. 2021  
-According to the regional variation of the SARS epidemic impact in 2003, I constructed a PSM-DID model to identify the relationship between the epidemic and the upgrading of industrial structure, and explored the influencing mechanism.
+According to the regional variation of the SARS epidemic impact in 2003, I constructed a PSM-DID model to identify the relationship between the epidemic and the upgrading of industrial structure, and explored the influencing mechanism.  
+
+## SKILLS
+* Programming Languages: Python, Matlab, R, Stata
+* English competence: TOEFL-105, GRE-321
+
+## Honors and Awards
+* First Prize, Award on China Undergraduate Mathematical Contest in Modeling(CUMCM) ---Nov. 2020
+* Meritorious Winner, Award on Mathematical Contest In Modeling(MCM) ----- Jan. 2021
+* China National Scholarship  ----------- 2021
+
+
