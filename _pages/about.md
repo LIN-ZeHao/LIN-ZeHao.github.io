@@ -31,7 +31,7 @@ Using LSTM and CNN models and Japanese tweet data, I construct daily sentiment i
 **Procedural justice and acceptance of inequality** --------------Dec. 2023 – Present  
 I use word embedding techniques to measure the acceptance of inequality in different countries. Then I look at whether millionaires’ wealth is perceived to be just in those countries by looking at their backgrounds and industries. This paper mainly examines the causal relationship between procedural justice and acceptance of inequality.  
 
-**Income and expenditure of different classes in the Republic of China in the 1930s**  
+**Income and expenditure of different classes in the Republic of China in the 1930s**  ---------
 Jul. 2021 –Jun. 2022  
 I collect and present data on the income and expenditure of the upper classes, such as senior officials and wealthy businessmen, to the lower classes, such as stevedore and beggars, in the Republic of China in the 1930s, providing some evidence to understand the inequality of the time.  
 
