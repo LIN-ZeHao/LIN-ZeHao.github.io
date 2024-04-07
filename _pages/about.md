@@ -25,11 +25,8 @@ Avearge marks: 90.07 / 100
 I've developed a interest in the Quantitative History and Natural Language Processing(NLP)
 
 ## RESEARCH EXPERIENCE
-**Whether emotions affect driving behavior?** --------------------Jan.2024 - Present  
-Using LSTM and CNN models and Japanese tweet data, I construct daily sentiment indicators at the county level in Japan from 2017-2022. Then I combine the sentiment indicators with official traffic accident data from Japan to see if emotions affect driving behavior.  
-
-**Procedural justice and acceptance of inequality** --------------Dec. 2023 – Present  
-I use word embedding techniques to measure the acceptance of inequality in different countries. Then I look at whether millionaires’ wealth is perceived to be just in those countries by looking at their backgrounds and industries. This paper mainly examines the causal relationship between procedural justice and acceptance of inequality.  
+**Procedural justice and preference of redistribution** --------------Dec. 2023 – Present  
+I use word embedding techniques to measure the preference of redistribution in different countries. Then I look at whether millionaires’ wealth is perceived to be just in those countries by looking at their backgrounds and industries. This paper mainly examines the causal relationship between procedural justice and preference of redistribution.  
 
 **Income and expenditure of different classes in the Republic of China in the 1930s**  ---------  
 Jul. 2021 –Jun. 2022  
